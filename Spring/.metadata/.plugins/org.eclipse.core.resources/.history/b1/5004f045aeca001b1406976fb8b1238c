@@ -1,0 +1,5 @@
+package com.cts.product.controller;
+
+public class ProductResttController {
+
+}

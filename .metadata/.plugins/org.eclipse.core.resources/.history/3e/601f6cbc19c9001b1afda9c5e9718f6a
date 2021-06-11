@@ -1,0 +1,15 @@
+package com;
+
+public class Use {
+	
+	public static void main(String[] args) {
+		
+		
+		Shape s=new Square();
+		s.draw();
+		s=new Circle();
+		s.draw();
+		
+	}
+
+}

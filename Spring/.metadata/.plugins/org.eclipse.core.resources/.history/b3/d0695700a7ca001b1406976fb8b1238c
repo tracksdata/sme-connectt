@@ -1,0 +1,8 @@
+package com.cts.product.dao;
+
+public class C3 {
+	public C3() {
+		System.out.println(">>>> C3 class object created...");
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;4-Boot-Web-REST-DATAJPA/src/main/java&apos;&#x0A;- Original project: &apos;4-Boot-Web-RESTAPP&apos;&#x0A;- Destination element: &apos;4-Boot-Web-REST-DATAJPA/src/main/java&apos;&#x0A;- Original elements:&#x0A;     4-Boot-Web-RESTAPP/src/main/java/com.cts.product.controller&#x0A;     4-Boot-Web-RESTAPP/src/main/java/com.cts.product.model" description="Copy packages" destination="=4-Boot-Web-REST-DATAJPA/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cts.product.controller" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cts.product.model" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1623414061359" version="1.0"/>
+</session>

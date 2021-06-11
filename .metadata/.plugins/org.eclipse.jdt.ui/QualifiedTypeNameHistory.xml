@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.Shape"/>
+    <fullyQualifiedTypeName name="com.Square"/>
+    <fullyQualifiedTypeName name="com.Circle"/>
+    <fullyQualifiedTypeName name="com.Calculate"/>
+</qualifiedTypeNameHistroy>

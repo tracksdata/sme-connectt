@@ -1,0 +1,26 @@
+package com;
+
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Scanner sc=new Scanner(System.in);
+		
+		try {
+			
+			System.out.println("Enter a class name: ");
+			String cn=sc.next();
+			
+			
+			
+			
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+
+	}
+
+}

@@ -1,0 +1,25 @@
+package com.cts.product;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
+
+import com.cts.product.dao.ProductRepository;
+import com.cts.product.entity.Product;
+
+@SpringBootApplication
+public class Application {
+
+	public static void main(String[] args) {
+		ApplicationContext ac= SpringApplication.run(Application.class, args);
+		ProductRepository prodDao = ac.getBean(ProductRepository.class);
+		
+		Product p1=new Product();
+		p1.setName("Book");
+		p1.setPrice(34);
+		p1.setDescription("Note Book");
+		
+		
+	}
+
+}
