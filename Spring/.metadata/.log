@@ -1504,3 +1504,15 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-11 17:51:11.423
 !MESSAGE executing callback sts4.classpath.INEGlRZE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-12 15:28:43.086
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.INEGlRZE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-12 15:28:43.087
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.INEGlRZE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-12 15:28:43.087
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-12 15:28:43.088
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.INEGlRZE => OK
